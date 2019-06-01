@@ -2,7 +2,7 @@
 
 An **untested** GNSS FeatherWing incorporating the [u-blox ZED-F9P](https://www.u-blox.com/en/product/zed-f9p-module)
 
-![Dimensions](https://github.com/PaulZC/ZED-F9P_FeatherWing/blob/master/img/Dimensions.JPG)
+![Dimensions](https://github.com/PaulZC/ZED-F9P_FeatherWing/blob/master/img/Dimensions.PNG)
 
 ![Top](https://github.com/PaulZC/ZED-F9P_FeatherWing/blob/master/img/Top.JPG)
 
