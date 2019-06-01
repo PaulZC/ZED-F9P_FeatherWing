@@ -1,6 +1,7 @@
 # ZED-F9P_FeatherWing
 
-An **untested** GNSS FeatherWing incorporating the [u-blox ZED-F9P](https://www.u-blox.com/en/product/zed-f9p-module)
+
+An **untested** GNSS FeatherWing incorporating the dual-band (L1 + L2) [u-blox ZED-F9P](https://www.u-blox.com/en/product/zed-f9p-module)
 
 ![Dimensions](https://github.com/PaulZC/ZED-F9P_FeatherWing/blob/master/img/Dimensions.PNG)
 
@@ -16,6 +17,8 @@ The Eagle files are available in the [Eagle folder](https://github.com/PaulZC/ZE
 The schematic is available [here](https://github.com/PaulZC/ZED-F9P_FeatherWing/blob/master/img/Schematic.PNG)
 
 The BOM is available [here](https://github.com/PaulZC/ZED-F9P_FeatherWing/blob/master/BOM.pdf)
+
+PCB thickness should be 0.8mm: see the microstrip calculations on the [SparkFun schematic](https://cdn.sparkfun.com/assets/9/a/0/0/a/Qwiic_GPS-RTK2_-_ublox_ZED-F9P.pdf)
 
 ## Acknowledgements
 
