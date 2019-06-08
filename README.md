@@ -3,6 +3,8 @@
 
 An **untested** GNSS FeatherWing incorporating the dual-band (L1 + L2) [u-blox ZED-F9P](https://www.u-blox.com/en/product/zed-f9p-module)
 
+If you need access to the ZED-F9P's USB port, check out the [ZED-F9P_FeatherWing_USB](https://github.com/PaulZC/ZED-F9P_FeatherWing_USB)
+
 ![Dimensions](https://github.com/PaulZC/ZED-F9P_FeatherWing/blob/master/img/Dimensions.PNG)
 
 ![Top](https://github.com/PaulZC/ZED-F9P_FeatherWing/blob/master/img/Top.JPG)
